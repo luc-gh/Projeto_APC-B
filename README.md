@@ -7,3 +7,5 @@ Classes principais:
 - [```Tela de menu```](core/src/com/libgdx/test/menu.java)
 - [```Lógica de jogo```](core/src/com/libgdx/test/jogo.java)
 - [```Tela de fim de jogo```](core/src/com/libgdx/test/fim.java)
+
+![Imagem do jogo](jg.PNG)
